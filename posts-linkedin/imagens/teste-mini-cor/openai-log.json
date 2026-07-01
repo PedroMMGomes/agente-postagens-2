@@ -1,0 +1,17 @@
+{
+  "model": "gpt-image-1-mini",
+  "size": "1024x1024",
+  "n": 2,
+  "text": "O MODELO NAO E O PRODUTO",
+  "prompt": "A clean modern editorial illustration for a tech LinkedIn post. Concept: the model is not the product, the harness is. Isometric 3D editorial style, deep navy background, teal and cyan accents, white, with a warm amber accent for the harness. Subtle grid background. Professional, minimal, high detail, square 1:1 composition, no watermark, no logos. At the CENTER: a small friendly AI core, a luminous cyan sphere with a simple happy smiling face, cute and approachable, not a cold corporate machine, representing the LLM model. Around the AI core: a harness of thin guide-rails, struts and small sensors in warm amber tones, protecting and supporting it like a safety roll-cage frame. A pair of stylized warm minimal human hands, caring not corporate, gently hold and cradle the AI core and harness from below, protecting it. Bold modern sans-serif text overlay reading exactly \"O MODELO NAO E O PRODUTO\", centered and clearly legible. Show ONLY this single headline — do NOT add any other labels, captions, callouts or annotations. Keep it to a maximum of 4 visual blocks.",
+  "files": [
+    {
+      "file": "C:\\1Repos\\agente-postagens-2\\posts-linkedin\\imagens\\teste-mini-cor\\openai-1.png",
+      "kb": 1310
+    },
+    {
+      "file": "C:\\1Repos\\agente-postagens-2\\posts-linkedin\\imagens\\teste-mini-cor\\openai-2.png",
+      "kb": 1275
+    }
+  ]
+}

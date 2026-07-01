@@ -1,0 +1,10 @@
+{
+  "name": "agente-postagens-2",
+  "private": true,
+  "type": "module",
+  "version": "2.0.0",
+  "description": "Harness do Agente de Publicacoes 2.0 (driver OpenAI Tier 0, Gemini Tier 1, web-sourcing, research pipeline)",
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}

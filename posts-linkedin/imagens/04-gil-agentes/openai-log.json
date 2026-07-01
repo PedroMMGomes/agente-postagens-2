@@ -1,0 +1,17 @@
+{
+  "model": "gpt-image-2",
+  "size": "1024x1024",
+  "n": 2,
+  "text": "VOCE E O GIL",
+  "prompt": "A clean, modern editorial illustration for a tech LinkedIn post. Concept: \"you are the GIL (Global Interpreter Lock) of your AI agents — you can spawn 20 agents in parallel but you review/decide one at a time; the bottleneck is your human attention, not compute.\" Context for the model to understand the meaning: like Python's GIL lets you create unlimited threads but only one runs bytecode at a time, an agent operator can run many AI agents simultaneously but the human judgment that reviews and decides their output is serialized — only one decision at a time. More parallel agents = a longer queue waiting on the single human, not more throughput. The metric is \"decisions well-reviewed per hour\", not \"agents running in parallel\".\n\nIsometric 3D editorial style, corporate tech palette (deep navy background, teal and cyan accents, white), with a warm amber accent for \"queue/waiting\" elements, subtle grid background, professional, minimal, high detail, square 1:1 composition, no watermark, no logos.\n\nShow a single central HUMAN OPERATOR as a warm, minimal, stylized figure: a pair of large caring human hands (acolhedoras — warm, not corporate) at the center holding ONE glowing teal \"decision token\" at a time. Around the operator, MULTIPLE small friendly AI robots (luminous cyan spheres with simple happy faces — cute, approachable, identical) arrive along converging lanes from the edges like streams, each carrying a small block of work. But they form a single-file QUEUE waiting to reach the central operator — only ONE robot is being reviewed at the hands; the others wait patiently in a gentle line (with a faint amber \"waiting\" glow on the queued ones). This visually shows serialization: many agents, one human decision at a time. The operator's hands glow slightly to emphasize they are the single serialized bottleneck. Show a subtle clock or hourglass motif (very faint, background) hinting at the Amdahl/time ceiling.\n\nKeep it to a maximum of 6 visual blocks: (1) the central human hands holding one teal decision token, (2) the ONE robot currently being reviewed at the hands, (3) the queue of 3-4 identical robots waiting in single file with amber waiting-glow, (4) the converging lanes coming from the edges, (5) the faint hourglass/time motif, (6) the approved decision token moving forward. Generous white space; emphasize the OUTCOME (attention serialized = queue forms), not just the thesis. Icons of a single consistent isometric 3D style. Warm, human, acolhedor tone.\n\nDo NOT include any office scene, business people in suits, meetings, sales charts, wireframe spheres, or abstract beauty without meaning. Bold modern sans-serif text overlay reading exactly \"VOCE E O GIL\", centered and clearly legible. Show ONLY this single headline — do NOT add any other labels, captions, callouts or annotations. Keep it to a maximum of 6 visual blocks. Bold modern sans-serif text overlay reading exactly \"VOCE E O GIL\", centered and clearly legible. Show ONLY this single headline — do NOT add any other labels, captions, callouts or annotations. Keep it to a maximum of 4 visual blocks.",
+  "files": [
+    {
+      "file": "C:\\1Repos\\agente-postagens-2\\posts-linkedin\\imagens\\04-gil-agentes\\openai-1.png",
+      "kb": 1318
+    },
+    {
+      "file": "C:\\1Repos\\agente-postagens-2\\posts-linkedin\\imagens\\04-gil-agentes\\openai-2.png",
+      "kb": 1336
+    }
+  ]
+}

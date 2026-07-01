@@ -1,0 +1,21 @@
+# segredos
+.env
+.env.*
+*.key
+*.pem
+
+# node
+node_modules/
+package-lock.json
+
+# perfis de browser (Gemini Chrome)
+AppData/
+*chrome-profile/
+
+# saidas de imagem de debug
+*_debug*.png
+*_tela-final.png
+
+# OS
+Thumbs.db
+.DS_Store

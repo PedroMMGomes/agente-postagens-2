@@ -1,0 +1,21 @@
+{
+  "model": "gpt-image-2",
+  "size": "1536x1024",
+  "n": 3,
+  "text": "O HARNESS É O PRODUTO",
+  "prompt": "README hero banner for an engineering workspace called \"Agente de Postagens 2.0\". The single thesis to communicate: the engineering AROUND the AI model (the \"harness\") is the real product — not the model itself.\n\nEditorial isometric 3D illustration, premium tech palette: deep navy base (#0B1E2D), glowing teal and cyan as primary accents, a single warm amber accent for energy/highlights, soft off-white for key subjects. Subtle dot-grid backdrop. Studio lighting with soft shadows, Apple-keynote aesthetic, high detail, subtle bloom. No watermark, no logos.\n\nComposition (wide hero, 3 depth planes, left-to-right reading flow, max 6 visual blocks):\n\nBACKGROUND PLANE — wide navy sky with a faint dot-grid and a low teal \"constellation arc\" sweeping across, suggesting a blueprint sky. Generous headroom.\n\nMID PLANE (the action band):\n- LEFT: a glowing cyan \"AI core\" (a rounded friendly robot sphere WITH a cute simple face: two eyes and a small calm smile), small, sitting alone on a thin pedestal — representing the raw MODEL. It is NOT the hero.\n- CENTER: the HERO moment — a squad of tiny stylized engineers and friendly mini-robots working together to build an elegant glowing \"harness frame\" of guide-rails, sensors, gauges and guardrails that ENCASES and surrounds a path leading toward the AI core. The harness is clearly the larger, more detailed, more luminous structure. Hands and tools caring for the system — warm, approachable tone (amber accents on the hands/tools), NOT corporate.\n- RIGHT: the OUTCOME — a polished, shipping digital product (a vertical stack of translucent glowing cards/panels with tiny icons: chart, gear, code bracket, shield) rising slightly upward with a soft halo, the brightest focal point.\n\nFOREGROUND — subtle reflective ground plane catching navy/cyan/amber highlights.\n\nMood: confident, premium, optimistic, engineering-craft. The visual hierarchy must make clear the HARNESS (center) and the PRODUCT (right) are the protagonists; the raw model (left) is small and supported.\n\nDo NOT include: office scenes, business suits, sales charts, wireframe spheres, money symbols, generic abstract beauty without meaning, social media icons, watermarks, brand logos. Bold modern sans-serif text overlay reading exactly \"O HARNESS É O PRODUTO\", centered and clearly legible. Show ONLY this single headline — do NOT add any other labels, captions, callouts or annotations. Keep it to a maximum of 4 visual blocks.",
+  "files": [
+    {
+      "file": "C:\\1Repos\\agente-postagens-2\\posts-linkedin\\imagens\\readme-hero\\openai-1.png",
+      "kb": 2113
+    },
+    {
+      "file": "C:\\1Repos\\agente-postagens-2\\posts-linkedin\\imagens\\readme-hero\\openai-2.png",
+      "kb": 2034
+    },
+    {
+      "file": "C:\\1Repos\\agente-postagens-2\\posts-linkedin\\imagens\\readme-hero\\openai-3.png",
+      "kb": 2243
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "model": "gpt-image-1-mini",
+  "size": "1024x1024",
+  "n": 2,
+  "text": null,
+  "prompt": "Black and white line art for a childrens coloring book. Pure white background. Bold thick clean black outlines only, no color, no fill, no shading, no gradients, no gray tones. Friendly simple composition suitable for a young child to color with crayons. At the center a small friendly AI core shown as a simple sphere with a happy smiling face. Around it a harness frame of thin guide-rails and small sensors. A pair of stylized human hands cradling and holding the AI core and harness from below. Square 1:1. No text, no watermark, no logos.",
+  "files": [
+    {
+      "file": "C:\\1Repos\\agente-postagens-2\\posts-linkedin\\imagens\\teste-mini-colorir\\openai-1.png",
+      "kb": 696
+    },
+    {
+      "file": "C:\\1Repos\\agente-postagens-2\\posts-linkedin\\imagens\\teste-mini-colorir\\openai-2.png",
+      "kb": 656
+    }
+  ]
+}
