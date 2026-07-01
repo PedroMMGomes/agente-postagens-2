@@ -103,7 +103,7 @@ Esta é a fase que mais diferencia uma publicação que para o scroll de uma gen
 - Paleta: navy/teal/cyan + 1 acento (âmbar para tom humano/quente). Quadrado 1:1.
 - **Figuras humanas estilizadas/acolhedoras são PERMITIDAS** (mãos que cuidam,
   mini-engenheiros, robôs com carinha simpática) — tom quente, não corporativo.
-  Aprendizado da sessão 20/jun/2026: o autor aprovou esse padrão (score 8.8–9.0).
+  Aprendizado da sessão 20/jun/2026: o autor aprovou esse padrão (validada pelo juiz de visao).
 - **Texto na imagem: PT-BR, maiúsculo, COM ACENTOS** ("O CONTEXTO É O PRODUTO").
   O `gpt-image-2` renderiza PT-BR com acentos corretamente. *(Correção 25/jun/2026: antes "sem acentos" — ver `APRENDIZADOS-SESSAO.md`.)*
 - **PROIBIDO**: esfera em wireframe solta, "beleza abstrata sem significado", texto

@@ -145,7 +145,7 @@ vive no **v1** (não duplicado aqui):
 
 - **Texto:** `../agente-postagens/posts-linkedin/01b-harness-engineering-resumido.md`
 - **Imagem:** `../agente-postagens/posts-linkedin/imagens/harness-engineering/openai-gpt-image-2-C-engenheiros.png`
-  (Tier 0 OpenAI `gpt-image-2`, conceito: mini-engenheiros montando harness, score 8.8,
+  (Tier 0 OpenAI `gpt-image-2`, conceito: mini-engenheiros montando harness, validada pelo juiz de visao e aprovada pelo autor,
   texto PT-BR "O MODELO NAO E O PRODUTO")
 
 Use-o como **régua**: toda `NNb-` humana deve bater o nível dele (curto, metáfora
@@ -176,4 +176,4 @@ obrigatório. Pesquisas/posts do v1 são referência — o 2.0 começa sua próp
 
 ---
 
-<sup>Capa gerada com OpenAI <code>gpt-image-2</code> (Tier 0), conceito "harness + squad". Validada por juiz de visão: score 8.5 · clutter 6 · fidelity 10 · texto PT-BR correto.</sup>
+<sup>Capa: OpenAI <code>gpt-image-2</code>.</sup>

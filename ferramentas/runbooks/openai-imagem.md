@@ -106,7 +106,7 @@ maximum of 6 visual blocks. No watermark. Square, high detail.
 >    anti-clutter (o script faz isso automaticamente quando você usa `--text "..."`).
 > 2. **Gate de clutter elevado de ≤4 → ≤6** — o autor prefere um pouco mais de
 >    densidade visual (5 blocos) desde que o outcome esteja claro. A variante com
->    mini-engenheiros (score 8.8, clutter 5) foi aprovada como "sensacional!!!".
+>    mini-engenheiros (validada pelo juiz de visao, clutter 5) foi aprovada como "sensacional!!!".
 > 3. **Texto em PT-BR, maiúsculo, sem acentos** ("O MODELO NAO E O PRODUTO") renderiza
 >    com perfeição no `gpt-image-2` (score 9.0). Estilo moderno.
 > 4. **Figuras humanas estilizadas/acolhedoras funcionam** (mãos que cuidam, robôs com
@@ -123,7 +123,7 @@ maximum of 6 visual blocks. No watermark. Square, high detail.
 
 Imagem aprovada do Post #01 (v1, refinada):
 `../agente-postagens/posts-linkedin/imagens/harness-engineering/openai-gpt-image-2-C-engenheiros.png`
-(conceito: mini-engenheiros montando harness, score 8.8, "sensacional!!!" do autor).
+(conceito: mini-engenheiros montando harness, validada e aprovada pelo autor).
 
 ## Fluxo completo (Fase C → D → E)
 

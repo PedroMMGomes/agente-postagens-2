@@ -90,7 +90,7 @@ Nichadas por tema: `#RAG #AgenticAI #DevOps #HarnessEngineering #ContextEngineer
 O autor aprovou como melhor capa um conceito **humano e acolhedor**: um pequeno núcleo
 de IA simpático (esfera ciano **com carinha**) sendo cuidado e protegido por **mãos
 acolhedoras** + harness de guide-rails/sensores, em tons quentes âmbar. Também aprovou
-mini-engenheiros montando harness (score 8.8, "sensacional!!!").
+mini-engenheiros montando harness (validada e aprovada pelo autor).
 
 **Isso muda a regra de figuras humanas:**
 - ✅ **PERMITIDO**: figuras humanas **estilizadas/minimalistas** em tom acolhedor —

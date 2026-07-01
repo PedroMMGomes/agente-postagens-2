@@ -55,7 +55,7 @@ está no v1 (referência, não duplicar):
 
 - **Texto:** `../agente-postagens/posts-linkedin/01b-harness-engineering-resumido.md`
 - **Imagem:** `../agente-postagens/posts-linkedin/imagens/harness-engineering/openai-gpt-image-2-C-engenheiros.png`
-  (Tier 0 OpenAI `gpt-image-2`, conceito: mini-engenheiros montando harness, score 8.8,
+  (Tier 0 OpenAI `gpt-image-2`, conceito: mini-engenheiros montando harness, validada pelo juiz de visao e aprovada pelo autor,
   "sensacional!!!" do autor; texto PT-BR sem acentos "O MODELO NAO E O PRODUTO")
 
 **Aprendizados do refinamento (20/jun/2026) — já incorporados ao sistema:**
